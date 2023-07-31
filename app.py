@@ -1,4 +1,6 @@
-import numpy as np
+#import numpy as np
+import random as rand
 
-msg = "Hello, my name is Amari"
-print(np.random.randint(1,10))
+x = {"banana","apple","oranges"}
+
+print(x)
